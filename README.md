@@ -175,7 +175,9 @@
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig).
 - [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 - [Illusionna/LocalTransfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
+- [deatil/zig-rsa](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
 - [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
+
 
 ### Linker
 
@@ -297,6 +299,7 @@
 - [nDimensional/zig-flatbuffers](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
 - [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
+- [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -762,6 +765,13 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 - [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/), post-quantum cryptography.
 - [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+- [pedronaugusto/zjolt](https://github.com/pedronaugusto/zjolt) - Zig bindings for Jolt Physics — the whole runtime, from shapes and the step to constraints, characters, vehicles, ragdolls, soft bodies and hair. AI-assisted.
+- [pedronaugusto/zecs](https://github.com/pedronaugusto/zecs) - Zig bindings for flecs, Sander Mertens's entity component system — vendored byte for byte. AI-assisted.
+- [pedronaugusto/ztypeset](https://github.com/pedronaugusto/ztypeset) - Text shaping and glyph rasterisation for Zig: vendored FreeType, HarfBuzz, SheenBidi and libunibreak behind one package. AI-assisted.
+- [pedronaugusto/zozz](https://github.com/pedronaugusto/zozz) - Zig bindings for the ozz-animation runtime — skeletal animation sampling. AI-assisted.
+- [pedronaugusto/zmeshopt](https://github.com/pedronaugusto/zmeshopt) - Zig bindings for meshoptimizer — mesh indexing, optimization, simplification, compression and meshlet building. AI-assisted.
+- [pedronaugusto/zcgltf](https://github.com/pedronaugusto/zcgltf) - Zig bindings for cgltf — glTF 2.0 parsing, validation, accessor reading and writing. AI-assisted.
+- [pedronaugusto/zrecast](https://github.com/pedronaugusto/zrecast) - Zig bindings for recastnavigation — navmesh baking, path queries, off-mesh links, dynamic obstacles through a tile cache and crowd steering. AI-assisted.
 
 ### Build with Zig
 

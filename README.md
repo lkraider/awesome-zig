@@ -178,7 +178,6 @@
 - [deatil/zig-rsa](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
 - [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
-
 ### Linker
 
 - [kubkon/bold](https://github.com/kubkon/bold) - A drop-in replacement for Apple’s system linker `ld`.
